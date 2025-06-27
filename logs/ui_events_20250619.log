@@ -1,0 +1,65 @@
+2025-06-19 10:36:37,733 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 10:36:37,733 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-19 10:36:37,735 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 10:36:37,737 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 10:44:45,881 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 10:44:45,881 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-19 10:44:45,883 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 10:44:45,886 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 13:46:16,899 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 13:46:16,899 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-19 13:46:16,902 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:46:16,904 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 13:46:19,383 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: SignalConnection
+2025-06-19 13:46:19,384 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: SignalConnection
+2025-06-19 13:46:19,384 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: SignalConnection, Options: case=False, word=False, regex=False
+2025-06-19 13:46:19,649 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 629
+2025-06-19 13:46:22,260 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: SCMediaPlayerController
+2025-06-19 13:46:22,260 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: SCMediaPlayerController
+2025-06-19 13:46:22,260 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: SCMediaPlayerController, Options: case=False, word=False, regex=False
+2025-06-19 13:46:22,542 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 332
+2025-06-19 13:49:53,281 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 13:49:53,282 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-19 13:49:53,284 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:49:53,287 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 13:50:23,855 - SCLogAnalysisTool - INFO - UI Event - open_file_dialog - MainWindow
+2025-06-19 13:50:28,861 - SCLogAnalysisTool - INFO - UI Event - open_file - MainWindow - File: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:50:29,002 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:50:29,002 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: False
+2025-06-19 13:50:29,002 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: android.log, Selected: True
+2025-06-19 13:50:29,006 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:50:42,015 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: 2025-06-18-09_log1.log
+2025-06-19 13:50:42,015 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-19 13:50:42,016 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:52:05,748 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:52:05,748 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: android.log, Selected: True
+2025-06-19 13:52:05,750 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:52:05,751 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:52:07,948 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: scan and auto select device error|startBindOverMatter
+2025-06-19 13:52:07,949 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|startBindOverMatter
+2025-06-19 13:52:07,949 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=False
+2025-06-19 13:52:07,958 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-19 13:52:07,958 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-19 13:52:08,923 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-19 13:52:08,923 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ERROR|appName1
+2025-06-19 13:52:08,923 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-19 13:52:08,953 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 171
+2025-06-19 13:52:08,960 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-19 13:52:08,960 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-19 13:52:35,919 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:52:35,919 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: android.log, Selected: True
+2025-06-19 13:52:35,921 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:52:35,925 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:52:40,129 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:52:40,129 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: android.log, Selected: True
+2025-06-19 13:52:40,131 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:52:40,132 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:53:19,506 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:53:19,507 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: android.log, Selected: True
+2025-06-19 13:53:19,508 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:53:19,510 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:54:02,453 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-19 13:56:05,895 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log
+2025-06-19 13:56:05,896 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: android.log, Selected: True
+2025-06-19 13:56:05,897 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-19 13:56:05,899 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/android.log

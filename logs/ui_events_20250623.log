@@ -1,0 +1,24 @@
+2025-06-23 16:51:17,628 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/bledemolog.log
+2025-06-23 16:51:17,628 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: bledemolog.log, Selected: True
+2025-06-23 16:51:17,630 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-23 16:51:17,728 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/ss121_android.log
+2025-06-23 16:51:17,728 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: bledemolog.log, Selected: False
+2025-06-23 16:51:17,728 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: ss121_android.log, Selected: True
+2025-06-23 16:51:17,730 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-23 16:51:17,730 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/ss121_android.log
+2025-06-23 16:51:19,449 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: ss121_android.log
+2025-06-23 16:51:19,449 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/ss121_android.log
+2025-06-23 16:51:19,573 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/bledemolog.log
+2025-06-23 16:51:19,573 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: bledemolog.log, Selected: True
+2025-06-23 16:51:20,271 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: bledemolog.log
+2025-06-23 16:51:20,271 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/bledemolog.log
+2025-06-23 16:51:20,273 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-23 16:51:21,471 - SCLogAnalysisTool - INFO - UI Event - click - OpenFileButton - WelcomePage
+2025-06-23 16:51:21,471 - SCLogAnalysisTool - INFO - UI Event - open_file_dialog - MainWindow
+2025-06-23 16:51:33,288 - SCLogAnalysisTool - INFO - UI Event - open_file - MainWindow - File: /Users/chenguodong/Downloads/CQ325B 1.8.24扫码绑定自动化/APP log/2024-07-25_20-a8b7baa9_CQ1k绑定日志.txt
+2025-06-23 16:51:46,930 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/CQ325B 1.8.24扫码绑定自动化/APP log/2024-07-25_20-a8b7baa9_CQ1k绑定日志.txt
+2025-06-23 16:51:46,931 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-07-25_20-a8b7baa9_CQ1k绑定日志.txt, Selected: True
+2025-06-23 16:51:46,932 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-23 16:51:48,647 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: 2024-07-25_20-a8b7baa9_CQ1k绑定日志.txt
+2025-06-23 16:51:48,647 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Downloads/CQ325B 1.8.24扫码绑定自动化/APP log/2024-07-25_20-a8b7baa9_CQ1k绑定日志.txt
+2025-06-23 16:51:48,649 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage

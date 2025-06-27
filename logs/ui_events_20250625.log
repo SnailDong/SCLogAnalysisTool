@@ -1,0 +1,552 @@
+2025-06-25 19:36:14,771 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-25 19:36:25,103 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:36:25,103 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 19:36:25,117 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 19:36:50,949 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ---------> ble nextUpdateInfoBleStep
+2025-06-25 19:36:52,391 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ---------> ble nextUpdateInfoBleStep, Options: case=False, word=False, regex=False
+2025-06-25 19:37:01,904 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 19:37:01,905 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 19:37:01,905 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 19:40:06,554 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:40:06,554 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 19:40:06,556 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 19:40:06,559 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:40:09,898 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 19:40:09,898 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 19:40:09,898 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 19:40:09,922 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 19:40:11,295 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 19:40:11,315 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 1
+2025-06-25 19:40:11,881 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 1/1
+2025-06-25 19:40:12,973 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 1/1
+2025-06-25 19:40:15,189 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/1
+2025-06-25 19:41:36,335 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:41:36,336 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 19:41:36,337 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 19:41:36,339 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:41:40,245 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 19:41:40,246 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 19:41:40,246 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 19:41:40,272 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 19:41:41,577 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 19:41:42,177 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 19:41:42,664 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 19:41:42,969 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 19:41:43,169 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 19:41:43,369 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 19:41:43,560 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 19:41:44,226 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 7/107
+2025-06-25 19:41:44,526 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 6/107
+2025-06-25 19:41:44,729 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 5/107
+2025-06-25 19:41:44,893 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 4/107
+2025-06-25 19:41:45,085 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 3/107
+2025-06-25 19:41:45,257 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 2/107
+2025-06-25 19:41:45,480 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/107
+2025-06-25 19:41:46,251 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 19:41:46,636 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 19:41:46,985 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 19:41:47,351 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 19:41:47,769 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 19:41:47,961 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 19:41:48,153 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 19:41:49,448 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 1
+2025-06-25 19:41:57,846 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 19:41:57,878 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 19:41:59,628 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 1
+2025-06-25 19:44:37,369 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:44:37,369 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 19:44:37,370 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 19:44:37,372 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:44:39,851 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 19:44:39,851 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 19:44:39,851 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 19:44:39,873 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 19:44:41,124 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 19:44:41,610 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 19:44:41,810 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 19:44:41,985 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 19:44:42,131 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 19:44:42,313 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 19:44:42,482 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 19:44:42,657 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 19:44:42,810 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 19:44:43,962 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 1
+2025-06-25 19:45:58,670 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:45:58,670 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 19:45:58,671 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 19:45:58,673 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:46:00,885 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 19:46:00,885 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 19:46:00,885 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 19:46:03,414 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 1
+2025-06-25 19:47:40,312 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:47:40,312 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 19:47:40,313 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 19:47:40,315 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 19:47:43,066 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 19:47:43,067 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 19:47:43,067 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 19:47:43,111 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 19:47:44,393 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 19:47:45,058 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 19:47:45,418 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 19:47:45,621 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 19:47:45,802 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 19:47:46,252 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 19:47:46,670 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 19:47:47,006 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 19:47:47,503 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 19:47:47,882 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 19:47:48,142 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 19:47:48,909 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 19:47:49,085 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 19:47:49,269 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 20:05:16,208 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 20:05:16,849 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 20:05:17,458 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 20:05:17,904 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 20:05:22,191 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 20:05:24,162 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 20:36:40,795 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:36:40,795 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 20:36:40,797 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 20:36:40,798 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:36:43,348 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 20:36:43,348 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 20:36:43,348 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 20:36:43,386 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 20:36:44,692 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 20:36:45,400 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 20:36:45,756 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 20:36:45,964 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 20:36:46,132 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 20:36:46,292 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 20:36:46,484 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 20:36:46,636 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 20:36:46,812 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 20:36:47,004 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 20:36:47,176 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 20:36:47,364 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 20:36:47,540 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 20:36:47,716 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 20:36:47,908 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 20:36:48,060 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/107
+2025-06-25 20:36:48,228 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/107
+2025-06-25 20:36:48,404 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 20/107
+2025-06-25 20:48:37,613 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:48:37,614 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 20:48:37,615 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 20:48:37,616 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:48:39,769 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 20:48:39,769 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 20:48:39,769 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 20:48:39,814 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 20:48:41,720 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 20:48:42,591 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 20:48:42,976 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 20:48:43,292 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 20:48:43,459 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 20:48:43,623 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 20:48:44,004 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 20:48:44,791 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 20:48:45,228 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 20:49:05,644 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 20:49:21,456 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 20:49:22,947 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 20:49:24,331 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 20:49:26,458 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 20:49:29,265 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 20:53:10,368 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:53:10,368 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 20:53:10,369 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 20:53:10,370 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:53:12,647 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 20:53:12,647 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 20:53:12,647 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 20:53:12,706 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 20:53:13,867 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 20:53:14,311 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 20:53:15,034 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 20:53:15,523 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 20:53:15,845 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 20:53:16,285 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 20:53:16,763 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 20:53:17,138 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 20:53:17,507 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 20:53:18,074 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 20:53:18,822 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 20:53:19,802 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 20:53:25,562 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 20:53:56,298 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 20:53:58,731 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 20:54:00,610 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 20:54:01,942 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/107
+2025-06-25 20:54:03,674 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/107
+2025-06-25 20:54:04,234 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 20/107
+2025-06-25 20:54:04,688 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 21/107
+2025-06-25 20:54:05,110 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 22/107
+2025-06-25 20:54:05,547 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 23/107
+2025-06-25 20:54:06,055 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 24/107
+2025-06-25 20:54:06,626 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 25/107
+2025-06-25 20:54:06,999 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 26/107
+2025-06-25 20:55:11,045 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:55:11,045 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 20:55:11,046 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 20:55:11,047 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:55:13,215 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 20:55:13,216 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 20:55:13,216 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 20:55:13,261 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 20:55:14,155 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 20:55:14,616 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 20:55:15,072 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 20:55:15,460 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 20:55:15,937 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 20:55:16,356 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 20:55:16,749 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 20:55:17,796 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 20:55:18,324 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 20:55:19,008 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 20:55:20,132 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 20:55:22,347 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 20:55:23,859 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 20:55:25,880 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 20:55:27,019 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 20:55:27,227 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/107
+2025-06-25 20:55:27,383 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/107
+2025-06-25 20:55:27,555 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 20/107
+2025-06-25 20:55:27,731 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 21/107
+2025-06-25 20:55:27,915 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 22/107
+2025-06-25 20:55:28,092 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 23/107
+2025-06-25 20:55:28,268 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 24/107
+2025-06-25 20:55:28,467 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 25/107
+2025-06-25 20:55:28,683 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 26/107
+2025-06-25 20:55:28,896 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 27/107
+2025-06-25 20:55:29,289 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 28/107
+2025-06-25 20:55:29,991 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 29/107
+2025-06-25 20:55:30,688 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 30/107
+2025-06-25 20:55:31,508 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 31/107
+2025-06-25 20:55:32,043 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 32/107
+2025-06-25 20:55:32,468 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 33/107
+2025-06-25 20:55:32,860 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 34/107
+2025-06-25 20:55:33,640 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 35/107
+2025-06-25 20:55:34,028 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 36/107
+2025-06-25 20:55:34,220 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 37/107
+2025-06-25 20:55:34,728 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 38/107
+2025-06-25 20:55:35,165 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 39/107
+2025-06-25 20:55:35,636 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 40/107
+2025-06-25 20:55:36,044 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 41/107
+2025-06-25 20:55:36,395 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 42/107
+2025-06-25 20:56:40,317 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:56:40,318 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 20:56:40,319 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 20:56:40,319 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 20:56:44,418 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 20:56:44,418 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 20:56:44,418 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 20:56:44,460 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 20:56:47,704 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 20:57:10,902 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 20:58:03,226 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 20:58:04,517 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 20:58:06,286 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 20:58:08,365 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 20:58:08,834 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 20:58:09,277 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 20:58:12,054 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 8/107
+2025-06-25 20:58:14,686 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 21:07:36,020 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 1
+2025-06-25 21:07:41,383 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:07:41,383 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:07:41,384 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:07:41,385 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:07:44,127 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:07:44,128 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:07:44,128 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:07:44,177 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:07:51,512 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:07:52,212 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:07:52,728 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 21:07:53,189 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 21:07:54,760 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 4/107
+2025-06-25 21:07:55,013 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 3/107
+2025-06-25 21:07:55,412 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 2/107
+2025-06-25 21:07:56,099 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/107
+2025-06-25 21:07:56,993 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:07:57,330 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:07:57,745 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 21:07:58,118 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 21:07:58,370 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 21:07:58,560 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 21:07:59,037 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 21:07:59,420 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 21:07:59,712 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 21:08:00,144 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 21:08:00,535 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 21:08:01,012 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 21:08:04,148 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 21:08:04,720 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 21:08:06,049 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 21:08:07,536 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 21:08:07,868 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/107
+2025-06-25 21:08:08,808 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/107
+2025-06-25 21:08:09,109 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 20/107
+2025-06-25 21:08:09,645 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 21/107
+2025-06-25 21:08:09,937 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 22/107
+2025-06-25 21:08:16,417 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 23/107
+2025-06-25 21:10:19,407 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:10:19,407 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:10:19,408 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:10:19,409 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:10:21,777 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:10:21,778 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:10:21,779 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:10:21,820 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:10:22,665 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:10:23,105 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:10:24,061 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 21:10:24,481 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 21:10:24,993 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 21:10:25,483 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 21:10:26,014 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 21:10:26,423 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 21:10:26,902 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 21:10:27,387 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 21:10:28,037 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 21:10:28,773 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 21:10:30,998 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 21:10:31,790 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 21:10:32,545 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 21:10:33,621 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 21:10:34,441 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/107
+2025-06-25 21:10:35,090 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/107
+2025-06-25 21:10:35,906 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 20/107
+2025-06-25 21:10:55,234 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 21/107
+2025-06-25 21:10:56,825 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 22/107
+2025-06-25 21:17:27,192 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:17:27,193 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:17:27,194 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:17:27,195 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:17:29,315 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:17:29,316 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:17:29,316 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:17:29,362 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:17:30,526 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:17:31,278 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:17:32,649 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 21:17:34,713 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 21:17:35,418 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 21:17:36,085 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 21:17:36,601 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 21:17:37,134 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 21:17:37,514 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 21:17:37,917 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 21:18:24,606 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:18:24,606 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:18:24,608 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:18:24,609 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:18:27,814 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:18:27,816 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:18:27,816 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:18:27,863 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:18:29,834 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:18:49,336 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:18:49,336 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:18:49,337 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:18:49,338 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:18:53,038 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:18:53,039 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:18:53,039 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:18:53,085 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:18:55,046 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:19:44,433 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:19:44,433 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:19:44,435 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:19:44,436 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:19:47,615 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:19:47,620 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:19:47,620 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:19:47,665 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:19:48,786 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:19:50,815 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:20:50,512 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:20:50,512 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:20:50,513 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:20:50,514 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:20:53,046 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:20:53,047 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:20:53,047 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:20:53,093 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:20:55,188 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:20:55,963 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:21:06,604 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 2/107
+2025-06-25 21:21:07,040 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/107
+2025-06-25 21:21:17,743 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:21:59,513 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:22:56,917 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 21:22:59,068 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 21:22:59,900 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 21:23:01,069 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 21:23:02,466 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 21:23:03,244 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 21:23:04,428 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 21:23:06,061 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 21:23:06,689 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 21:23:08,641 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 21:23:17,101 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 21:23:17,549 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 21:23:17,964 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 21:23:18,289 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 21:23:18,661 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/107
+2025-06-25 21:23:18,970 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/107
+2025-06-25 21:24:55,627 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:24:55,628 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:24:55,629 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:24:55,634 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:24:57,524 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:24:57,524 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:24:57,524 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:24:57,564 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:24:58,593 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:30:19,509 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:30:19,509 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:30:19,513 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:30:19,515 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:30:22,589 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:30:22,590 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:30:22,590 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:30:22,637 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:30:24,189 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:30:41,486 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:34:28,774 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: cloudcfg
+2025-06-25 21:34:28,775 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: cloudcfg
+2025-06-25 21:34:28,776 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: cloudcfg, Options: case=False, word=False, regex=False
+2025-06-25 21:34:28,825 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 35
+2025-06-25 21:34:37,153 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: cloudcfg
+2025-06-25 21:34:37,154 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: cloudcfg, Options: case=False, word=False, regex=False
+2025-06-25 21:35:11,059 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ircutMode
+2025-06-25 21:35:11,062 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ircutMode
+2025-06-25 21:35:11,063 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ircutMode, Options: case=False, word=False, regex=False
+2025-06-25 21:35:11,155 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 140
+2025-06-25 21:35:23,282 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: irmodeval
+2025-06-25 21:35:23,282 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: irmodeval
+2025-06-25 21:35:23,282 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: irmodeval, Options: case=False, word=False, regex=False
+2025-06-25 21:35:23,352 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 36
+2025-06-25 21:35:54,482 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/36
+2025-06-25 21:35:57,573 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/36
+2025-06-25 21:38:26,764 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/36
+2025-06-25 21:38:27,341 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/36
+2025-06-25 21:38:28,030 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/36
+2025-06-25 21:38:28,834 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/36
+2025-06-25 21:38:29,613 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/36
+2025-06-25 21:38:30,174 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/36
+2025-06-25 21:38:30,681 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/36
+2025-06-25 21:38:31,209 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/36
+2025-06-25 21:38:31,737 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/36
+2025-06-25 21:38:32,218 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/36
+2025-06-25 21:38:33,418 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/36
+2025-06-25 21:38:34,497 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/36
+2025-06-25 21:38:35,081 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/36
+2025-06-25 21:38:35,579 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/36
+2025-06-25 21:38:35,855 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/36
+2025-06-25 21:38:36,074 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/36
+2025-06-25 21:38:36,242 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/36
+2025-06-25 21:38:36,414 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 20/36
+2025-06-25 21:38:36,570 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 21/36
+2025-06-25 21:38:36,742 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 22/36
+2025-06-25 21:38:36,889 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 23/36
+2025-06-25 21:38:37,209 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 24/36
+2025-06-25 21:38:37,377 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 25/36
+2025-06-25 21:38:37,562 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 26/36
+2025-06-25 21:38:37,697 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 27/36
+2025-06-25 21:38:37,865 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 28/36
+2025-06-25 21:38:38,025 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 29/36
+2025-06-25 21:38:38,189 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 30/36
+2025-06-25 21:38:38,370 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 31/36
+2025-06-25 21:38:38,545 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 32/36
+2025-06-25 21:38:38,709 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 33/36
+2025-06-25 21:38:38,873 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 34/36
+2025-06-25 21:38:39,041 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 35/36
+2025-06-25 21:38:39,222 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 36/36
+2025-06-25 21:38:39,506 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 1/36
+2025-06-25 21:38:40,058 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/36
+2025-06-25 21:38:40,218 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/36
+2025-06-25 21:38:40,402 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/36
+2025-06-25 21:38:40,642 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/36
+2025-06-25 21:38:40,818 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/36
+2025-06-25 21:38:40,973 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/36
+2025-06-25 21:38:41,170 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/36
+2025-06-25 21:38:41,349 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/36
+2025-06-25 21:38:41,517 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/36
+2025-06-25 21:38:41,681 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/36
+2025-06-25 21:38:41,858 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/36
+2025-06-25 21:38:42,030 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/36
+2025-06-25 21:38:42,209 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/36
+2025-06-25 21:38:42,623 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/36
+2025-06-25 21:38:42,825 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/36
+2025-06-25 21:38:42,993 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/36
+2025-06-25 21:41:27,634 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:41:27,634 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:41:27,635 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:41:27,636 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:41:31,409 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:41:31,410 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:41:31,410 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:41:31,458 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:41:38,629 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:41:57,834 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:46:13,770 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:46:13,770 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2024-11-25_tty.usbserial-143410.log, Selected: True
+2025-06-25 21:46:13,771 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-25 21:46:13,772 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2024-11-25_tty.usbserial-143410.log
+2025-06-25 21:46:15,520 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:46:15,521 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: videoChnEnable
+2025-06-25 21:46:15,521 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:46:15,565 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 107
+2025-06-25 21:46:16,586 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:46:17,539 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:46:18,766 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/107
+2025-06-25 21:46:19,134 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/107
+2025-06-25 21:46:19,379 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/107
+2025-06-25 21:46:19,569 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/107
+2025-06-25 21:46:19,851 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/107
+2025-06-25 21:46:20,073 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/107
+2025-06-25 21:46:20,258 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/107
+2025-06-25 21:46:20,510 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/107
+2025-06-25 21:46:20,774 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/107
+2025-06-25 21:46:21,218 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/107
+2025-06-25 21:46:21,706 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/107
+2025-06-25 21:46:24,434 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/107
+2025-06-25 21:46:25,854 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/107
+2025-06-25 21:46:27,033 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/107
+2025-06-25 21:46:27,977 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 18/107
+2025-06-25 21:46:29,129 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 19/107
+2025-06-25 21:46:29,689 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 20/107
+2025-06-25 21:46:30,314 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 21/107
+2025-06-25 21:46:30,995 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 22/107
+2025-06-25 21:46:31,754 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 23/107
+2025-06-25 21:46:32,686 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 24/107
+2025-06-25 21:46:33,210 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 25/107
+2025-06-25 21:46:33,769 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 26/107
+2025-06-25 21:46:34,310 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 27/107
+2025-06-25 21:46:34,985 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 28/107
+2025-06-25 21:46:35,810 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 29/107
+2025-06-25 21:46:36,481 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 30/107
+2025-06-25 21:46:37,190 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 31/107
+2025-06-25 21:46:37,779 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 32/107
+2025-06-25 21:46:38,701 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 33/107
+2025-06-25 21:46:39,219 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 34/107
+2025-06-25 21:46:39,818 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 35/107
+2025-06-25 21:46:40,311 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 36/107
+2025-06-25 21:46:40,817 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 37/107
+2025-06-25 21:46:41,361 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 38/107
+2025-06-25 21:46:41,953 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 39/107
+2025-06-25 21:46:42,514 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 40/107
+2025-06-25 21:46:56,100 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: videoChnEnable
+2025-06-25 21:46:56,101 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: videoChnEnable, Options: case=False, word=False, regex=False
+2025-06-25 21:46:58,501 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:47:01,334 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107
+2025-06-25 21:47:05,270 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 2/107
+2025-06-25 21:47:06,393 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/107
+2025-06-25 21:47:14,522 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/107
+2025-06-25 21:48:01,818 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/107

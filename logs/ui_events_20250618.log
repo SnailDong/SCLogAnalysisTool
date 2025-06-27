@@ -1,0 +1,1525 @@
+2025-06-18 10:06:01,220 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:06:01,220 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:06:01,224 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:06:01,226 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:14:31,030 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:14:31,030 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:14:31,031 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:14:31,033 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:14:35,257 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:14:40,288 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: light
+2025-06-18 10:14:51,265 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FlutterLogNative
+2025-06-18 10:14:51,266 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FlutterLogNative
+2025-06-18 10:14:51,266 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FlutterLogNative, Options: case=False, word=False, regex=False
+2025-06-18 10:14:51,281 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 11
+2025-06-18 10:14:59,775 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:15:11,310 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: default
+2025-06-18 10:15:28,934 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:15:28,934 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:15:28,936 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:15:28,938 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:15:30,584 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 10:15:30,584 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ERROR|appName1
+2025-06-18 10:15:30,584 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=False
+2025-06-18 10:15:30,585 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 10:15:30,585 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 10:15:30,589 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 4
+2025-06-18 10:16:33,328 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:16:33,332 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 10:16:36,145 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:16:39,429 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: light
+2025-06-18 10:16:44,738 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: default
+2025-06-18 10:16:47,413 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:16:49,413 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: default
+2025-06-18 10:19:01,949 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 10:19:04,973 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:19:07,643 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: default
+2025-06-18 10:19:10,215 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: light
+2025-06-18 10:19:12,285 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:19:12,285 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:19:12,290 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:19:14,470 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:19:16,708 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: default
+2025-06-18 10:19:23,033 - SCLogAnalysisTool - INFO - UI Event - toggle_view - KeywordPanel - Visible: False
+2025-06-18 10:19:24,835 - SCLogAnalysisTool - INFO - UI Event - toggle_view - KeywordPanel - Visible: True
+2025-06-18 10:19:26,335 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 10:19:35,921 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 10:19:35,923 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ERROR|appName1
+2025-06-18 10:19:35,923 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=False
+2025-06-18 10:19:35,925 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 10:19:35,925 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 10:19:35,932 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 4
+2025-06-18 10:19:38,627 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 10:19:38,627 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 10:19:38,636 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 10:19:38,636 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 10:19:47,137 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FeedbackCore
+2025-06-18 10:19:47,137 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FeedbackCore
+2025-06-18 10:19:47,137 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=False
+2025-06-18 10:19:47,143 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 9
+2025-06-18 10:19:57,313 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 10:19:57,315 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ERROR|appName1
+2025-06-18 10:19:57,315 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=False
+2025-06-18 10:19:57,322 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 10:19:57,322 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 10:19:57,329 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 4
+2025-06-18 10:19:58,305 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FeedbackCore
+2025-06-18 10:19:58,305 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FeedbackCore
+2025-06-18 10:19:58,305 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=True
+2025-06-18 10:19:58,314 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 9
+2025-06-18 10:19:58,317 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': False, 'word_only': False}
+2025-06-18 10:19:58,317 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=False
+2025-06-18 10:20:00,661 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/9
+2025-06-18 10:20:01,514 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/9
+2025-06-18 10:24:15,093 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:24:15,094 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:24:15,095 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:24:15,096 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:24:19,914 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:24:23,795 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: light
+2025-06-18 10:24:30,499 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: default
+2025-06-18 10:24:36,908 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:27:05,777 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:27:05,777 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:27:05,779 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:27:05,780 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:27:08,840 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: dark
+2025-06-18 10:27:15,978 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 10:27:15,978 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 10:27:15,978 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 10:27:15,984 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 10:27:22,404 - SCLogAnalysisTool - INFO - UI Event - switch_theme - MainWindow - Theme: light
+2025-06-18 10:51:50,931 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:51:50,931 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:51:50,934 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:51:50,936 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:51:54,847 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 10:56:47,447 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:56:47,448 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:56:47,448 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:56:47,450 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:56:54,035 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 10:57:38,561 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:57:38,561 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:57:38,562 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:57:38,564 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:57:44,376 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 10:58:07,406 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:58:07,406 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 10:58:07,407 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 10:58:07,409 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 10:58:09,828 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 11:01:39,846 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:01:39,846 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:01:39,847 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:01:39,849 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:01:42,835 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 11:01:42,835 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 11:01:42,835 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 11:01:42,840 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 11:01:46,664 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FeedbackCore
+2025-06-18 11:01:46,664 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FeedbackCore
+2025-06-18 11:01:46,665 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=False
+2025-06-18 11:01:46,669 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 9
+2025-06-18 11:01:46,670 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': False, 'word_only': False}
+2025-06-18 11:01:46,670 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=False
+2025-06-18 11:01:48,627 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 11:01:48,628 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ERROR|appName1
+2025-06-18 11:01:48,628 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=False
+2025-06-18 11:01:48,630 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 11:01:48,630 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 11:01:48,633 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 4
+2025-06-18 11:01:51,560 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 11:01:51,560 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:01:51,563 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 11:01:54,335 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:01:54,335 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:01:54,336 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:01:58,202 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:01:58,203 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:01:58,203 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:01:58,212 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:01:59,144 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog2.txt
+2025-06-18 11:01:59,144 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:01:59,144 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:01:59,144 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:01:59,705 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:01:59,705 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:01:59,705 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:01:59,706 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:02:00,600 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog2.txt
+2025-06-18 11:02:00,600 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:02:00,601 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:02:00,602 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:04:44,657 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:04:44,657 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:04:44,658 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:04:44,694 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:04:44,694 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:04:44,694 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:04:44,695 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:04:44,695 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:04:44,695 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:04:44,695 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:04:47,922 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: timestamp
+2025-06-18 11:04:47,922 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: timestamp
+2025-06-18 11:04:47,922 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: timestamp, Options: case=False, word=False, regex=False
+2025-06-18 11:04:48,513 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 382
+2025-06-18 11:04:51,633 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: requestId
+2025-06-18 11:04:51,634 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: requestId
+2025-06-18 11:04:51,634 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: requestId, Options: case=False, word=False, regex=False
+2025-06-18 11:04:52,230 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 46
+2025-06-18 11:07:22,164 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:07:22,164 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:07:22,165 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:07:22,202 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:07:22,202 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:07:22,202 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:07:22,203 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:07:22,203 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:07:22,203 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:07:22,203 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:07:24,754 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: DioClient
+2025-06-18 11:07:24,754 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: DioClient
+2025-06-18 11:07:24,754 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: DioClient, Options: case=False, word=False, regex=False
+2025-06-18 11:07:25,630 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 583
+2025-06-18 11:07:32,521 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: applog2.txt
+2025-06-18 11:07:32,521 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:07:32,526 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:07:32,526 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:07:34,475 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FlutterLogNative
+2025-06-18 11:07:34,475 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FlutterLogNative
+2025-06-18 11:07:34,476 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FlutterLogNative, Options: case=False, word=False, regex=False
+2025-06-18 11:07:34,489 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 11
+2025-06-18 11:07:36,697 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/11
+2025-06-18 11:07:37,133 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/11
+2025-06-18 11:07:37,313 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/11
+2025-06-18 11:07:37,473 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/11
+2025-06-18 11:07:37,961 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/11
+2025-06-18 11:07:38,489 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 7/11
+2025-06-18 11:10:34,484 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:10:34,485 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:10:34,486 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:10:34,487 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:11:54,411 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:11:54,411 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:11:54,412 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:11:54,415 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:12:01,153 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 11:12:23,611 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:12:23,611 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:12:23,612 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:12:23,614 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:12:27,025 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 11:12:42,653 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 11:12:42,653 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 11:12:42,654 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 11:12:42,669 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 11:13:05,439 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:13:05,439 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:13:05,440 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:13:05,441 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:13:08,182 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 11:16:33,402 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:16:33,402 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:16:33,406 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:16:33,407 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:16:40,608 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 11:19:18,943 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:19:18,943 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:19:18,948 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:19:18,950 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:19:44,180 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 11:19:44,182 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ERROR|appName1
+2025-06-18 11:19:44,182 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=False
+2025-06-18 11:19:44,184 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 11:19:44,184 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 11:19:44,190 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 4
+2025-06-18 11:19:53,780 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 11:19:53,781 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 11:19:53,785 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 11:19:53,785 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 11:19:58,947 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ERROR|appName1
+2025-06-18 11:19:58,947 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 11:19:58,952 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 11:19:58,952 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ERROR|appName1, Options: case=False, word=False, regex=True
+2025-06-18 11:21:46,300 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:21:46,300 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:21:46,301 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:21:46,302 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:21:50,252 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:21:50,252 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:21:55,644 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 11:21:55,645 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 11:21:55,645 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 11:21:55,648 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 11:22:53,185 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:22:53,185 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:22:53,187 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:22:53,188 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:23:24,254 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ApiClient
+2025-06-18 11:23:24,255 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ApiClient
+2025-06-18 11:23:24,255 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ApiClient, Options: case=False, word=False, regex=False
+2025-06-18 11:23:24,263 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 9
+2025-06-18 11:24:32,607 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:24:32,607 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:24:32,608 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:24:32,609 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:24:51,149 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:24:51,150 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:24:51,151 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:24:51,152 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:27:24,363 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:27:24,363 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:27:24,364 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:27:24,365 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:27:45,891 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:27:45,892 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:27:45,893 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:27:45,894 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:27:56,660 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:27:56,660 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:27:56,661 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:27:56,662 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:30:52,651 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:30:52,651 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:30:52,652 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:30:52,654 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:31:01,742 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:31:01,743 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:31:01,744 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:31:01,745 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:31:04,588 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 11:31:04,588 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 11:31:04,588 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 11:31:04,594 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 11:31:17,704 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:31:17,706 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:31:18,312 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:31:18,312 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:31:21,305 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:31:21,305 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:31:21,305 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:31:21,308 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:31:22,570 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog2.txt
+2025-06-18 11:31:22,570 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:31:23,049 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:31:23,050 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:31:23,050 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:31:23,051 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:31:23,852 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog2.txt
+2025-06-18 11:31:23,852 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:31:23,852 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:31:23,853 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:31:56,874 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:31:56,874 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:31:56,876 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:31:57,473 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:31:57,473 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:31:57,473 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:31:57,474 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:31:57,475 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:32:49,147 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:32:49,148 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:32:49,149 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:32:49,656 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:32:49,656 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:32:49,656 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:32:49,657 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:32:49,658 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:32:51,152 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:32:51,153 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:32:51,153 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:32:51,154 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:32:51,809 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog2.txt
+2025-06-18 11:32:51,809 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:32:51,810 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:32:51,811 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:32:53,385 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:32:53,385 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:32:53,385 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:32:53,385 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:32:54,161 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog2.txt
+2025-06-18 11:32:54,161 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:32:54,161 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:32:54,161 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:33:16,769 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:33:16,769 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:33:16,770 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:33:17,311 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:33:17,311 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:33:17,311 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:33:17,312 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:33:17,313 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:33:18,558 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:33:18,558 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:33:18,559 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:33:18,559 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: False
+2025-06-18 11:33:19,089 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog2.txt
+2025-06-18 11:33:19,089 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:33:19,089 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:33:19,090 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:33:50,935 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:33:50,935 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:33:50,937 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:33:51,510 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:33:51,510 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:33:51,510 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:33:51,511 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:33:51,511 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:33:53,861 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: requestId
+2025-06-18 11:33:53,861 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: requestId
+2025-06-18 11:33:53,861 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: requestId, Options: case=False, word=False, regex=False
+2025-06-18 11:33:54,049 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 46
+2025-06-18 11:35:01,125 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:35:01,126 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:35:01,127 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:35:01,567 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:35:01,567 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:35:01,567 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 11:35:01,570 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:35:01,570 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:35:10,765 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 11:35:24,634 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: applog2.txt
+2025-06-18 11:35:24,636 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 11:35:24,642 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:35:24,642 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:35:26,422 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 11:35:26,423 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 11:35:26,423 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 11:35:26,429 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 11:35:33,074 - SCLogAnalysisTool - INFO - UI Event - clear_filter - FilterInput
+2025-06-18 11:35:33,075 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: 
+2025-06-18 11:35:33,075 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 0
+2025-06-18 11:36:34,699 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:36:34,699 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:36:34,701 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:36:34,703 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:36:41,420 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 11:36:48,206 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FlutterLogNative
+2025-06-18 11:36:48,206 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FlutterLogNative
+2025-06-18 11:36:48,206 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FlutterLogNative, Options: case=False, word=False, regex=False
+2025-06-18 11:36:48,215 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 11
+2025-06-18 11:36:56,051 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/11
+2025-06-18 11:36:56,488 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/11
+2025-06-18 11:39:16,955 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:39:16,956 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:39:16,957 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:39:16,959 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:39:25,839 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/20250617_161055_R58N80NMZWN.log
+2025-06-18 11:39:25,839 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 11:39:25,840 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 20250617_161055_R58N80NMZWN.log, Selected: True
+2025-06-18 11:39:25,841 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:39:30,512 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: 20250617_161055_R58N80NMZWN.log
+2025-06-18 11:39:30,513 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Downloads/20250617_161055_R58N80NMZWN.log
+2025-06-18 11:39:30,514 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:39:30,514 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:39:40,860 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:39:40,861 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:39:43,475 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:39:43,475 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:39:44,411 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:39:44,411 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:44:01,736 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:44:01,736 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:44:01,738 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:44:01,740 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:44:04,576 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:44:04,576 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:44:06,798 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:44:06,798 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:44:08,827 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:44:08,828 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:45:31,401 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:45:31,401 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:45:31,403 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:45:31,405 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:45:53,049 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:45:53,049 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:45:53,050 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:45:53,052 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:45:56,451 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:45:56,454 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 11:45:57,945 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:45:57,945 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:45:57,947 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:46:01,634 - SCLogAnalysisTool - INFO - UI Event - toggle_readonly - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 11:46:05,961 - SCLogAnalysisTool - INFO - UI Event - toggle_readonly - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 11:46:50,435 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:46:50,436 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:46:50,437 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:46:50,439 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:46:52,750 - SCLogAnalysisTool - INFO - UI Event - toggle_readonly - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 11:46:55,788 - SCLogAnalysisTool - INFO - UI Event - toggle_readonly - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 11:46:58,730 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:46:58,734 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 11:46:59,960 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:46:59,960 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:46:59,963 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:47:03,818 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:47:03,818 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:47:05,421 - SCLogAnalysisTool - INFO - UI Event - toggle_readonly - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 11:47:14,130 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 11:47:14,130 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:47:14,134 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 11:49:45,802 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 11:49:47,447 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:49:47,447 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 11:49:47,459 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:54:02,505 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:54:02,507 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:54:02,509 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:54:04,755 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:54:06,473 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:54:08,823 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:54:08,826 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 11:54:10,786 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:54:10,791 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:54:11,641 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:54:13,038 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 11:54:17,760 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 11:57:38,066 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:57:38,067 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 11:57:38,069 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 11:57:39,643 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 12:00:42,712 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:00:42,712 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 12:00:42,713 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 12:00:42,715 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:00:44,267 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 12:00:44,267 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:00:45,974 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 12:00:45,974 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:01:42,660 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:01:42,660 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 12:01:42,661 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 12:01:42,662 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:03:17,667 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:03:17,668 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 12:03:17,669 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 12:03:17,671 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:04:34,317 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:04:34,317 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 12:04:34,318 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 12:04:34,320 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 12:04:40,459 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 12:04:40,459 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:49:17,044 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:49:17,044 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 13:49:17,047 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 13:49:17,049 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:49:19,004 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:49:19,004 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:49:20,680 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 13:50:15,294 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:50:15,294 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 13:50:15,296 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 13:50:15,297 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:50:16,825 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:50:16,826 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:50:17,942 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 13:50:46,987 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:50:46,987 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 13:50:46,988 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 13:50:46,990 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:50:48,308 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:50:48,308 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:50:49,184 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 13:50:59,866 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:50:59,867 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:00,735 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 13:51:03,651 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:51:03,652 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:05,034 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:05,037 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 13:51:06,358 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:06,358 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 13:51:06,359 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 13:51:09,201 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:51:09,202 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:09,973 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:51:09,973 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:10,710 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:51:10,710 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:14,396 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:51:14,396 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:18,324 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 13:51:20,330 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:51:20,330 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:51:21,128 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 13:52:00,138 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:52:00,138 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 13:52:00,139 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 13:52:00,141 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:52:01,391 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:52:01,391 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:52:02,095 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 13:52:03,715 - SCLogAnalysisTool - INFO - UI Event - toggle_view - KeywordPanel - Visible: False
+2025-06-18 13:52:06,058 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 13:52:08,537 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 13:52:08,537 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 13:52:08,537 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 13:52:08,544 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 13:56:02,326 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:56:02,326 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 13:56:02,327 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 13:56:02,329 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:56:03,760 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:56:03,760 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:56:04,499 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 13:56:07,048 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 13:56:07,048 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 13:56:07,731 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 13:56:10,642 - SCLogAnalysisTool - INFO - UI Event - toggle_view - FilterPanel - Visible: True
+2025-06-18 14:04:06,663 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:04:06,663 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 14:04:06,664 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 14:04:06,666 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:04:09,591 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 14:04:09,591 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 14:04:09,591 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 14:04:09,597 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 14:13:12,684 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:13:12,685 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 14:13:12,686 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:13:15,512 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 14:13:50,851 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:13:50,851 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 14:13:50,852 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:13:52,582 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 14:13:52,584 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 14:13:54,885 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/file.txt
+2025-06-18 14:13:54,885 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: file.txt, Selected: True
+2025-06-18 14:13:56,154 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: file.txt
+2025-06-18 14:13:56,156 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 14:13:58,334 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog2.txt
+2025-06-18 14:13:58,334 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: applog2.txt, Selected: True
+2025-06-18 14:13:59,371 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: applog2.txt
+2025-06-18 14:13:59,374 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 14:14:00,883 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/20250617_161055_R58N80NMZWN.log
+2025-06-18 14:14:00,884 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 20250617_161055_R58N80NMZWN.log, Selected: True
+2025-06-18 14:14:02,947 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: 20250617_161055_R58N80NMZWN.log
+2025-06-18 14:14:02,949 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 14:14:04,235 - SCLogAnalysisTool - INFO - UI Event - click - OpenFileButton - WelcomePage
+2025-06-18 14:14:04,236 - SCLogAnalysisTool - INFO - UI Event - open_file_dialog - MainWindow
+2025-06-18 14:14:08,835 - SCLogAnalysisTool - INFO - UI Event - open_file - MainWindow - File: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:14:08,890 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:14:08,890 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 14:14:10,439 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 14:14:10,439 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:14:11,510 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 14:14:14,589 - SCLogAnalysisTool - INFO - UI Event - modified_state_change - TabItem - Tab: logcat.log, Modified: True
+2025-06-18 14:14:20,058 - SCLogAnalysisTool - INFO - UI Event - modified_state_change - TabItem - Tab: logcat.log, Modified: False
+2025-06-18 14:14:22,520 - SCLogAnalysisTool - INFO - UI Event - modified_state_change - TabItem - Tab: logcat.log, Modified: True
+2025-06-18 14:14:24,044 - SCLogAnalysisTool - INFO - UI Event - modified_state_change - TabItem - Tab: logcat.log, Modified: False
+2025-06-18 14:14:27,031 - SCLogAnalysisTool - INFO - UI Event - modified_state_change - TabItem - Tab: logcat.log, Modified: True
+2025-06-18 14:14:39,975 - SCLogAnalysisTool - INFO - UI Event - modified_state_change - TabItem - Tab: logcat.log, Modified: False
+2025-06-18 14:41:21,536 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:21,536 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 14:41:21,540 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 14:41:21,542 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:23,206 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 14:41:23,206 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:24,047 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 14:41:28,015 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 14:41:28,016 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:31,057 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 14:41:32,669 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:32,670 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 14:41:32,672 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 14:41:35,463 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 14:41:35,463 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:36,126 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 14:41:40,500 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 14:41:40,500 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:41,968 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 14:41:43,244 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:43,244 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 14:41:43,247 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 14:41:44,556 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 14:41:44,556 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:45,210 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 14:41:50,846 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 14:41:50,849 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 14:41:52,394 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 15:04:30,727 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 15:04:32,832 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 15:04:34,729 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 15:04:34,729 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 15:04:35,601 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 15:04:35,601 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 15:04:38,929 - SCLogAnalysisTool - INFO - UI Event - open_file_dialog - MainWindow
+2025-06-18 15:04:42,895 - SCLogAnalysisTool - INFO - UI Event - open_file - MainWindow - File: /Users/chenguodong/Desktop/workplace/log/applog1.txt
+2025-06-18 15:04:43,620 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog1.txt
+2025-06-18 15:04:45,000 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 15:04:45,001 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 15:04:45,736 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: applog1.txt
+2025-06-18 15:04:45,736 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/applog1.txt
+2025-06-18 15:04:46,384 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 15:04:46,385 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:47:38,767 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:47:40,761 - SCLogAnalysisTool - INFO - UI Event - click - OpenFileButton - WelcomePage
+2025-06-18 16:47:40,761 - SCLogAnalysisTool - INFO - UI Event - open_file_dialog - MainWindow
+2025-06-18 16:47:47,841 - SCLogAnalysisTool - INFO - UI Event - open_file - MainWindow - File: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:47:47,919 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:47:47,919 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 16:47:47,922 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:47:51,545 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: app.txt
+2025-06-18 16:47:51,545 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:47:55,920 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:47:57,175 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:47:57,175 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 16:47:57,176 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:47:58,481 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: app.txt
+2025-06-18 16:47:58,481 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:47:59,691 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:48:09,257 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:48:10,614 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:48:10,614 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 16:48:10,618 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:48:11,811 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: app.txt
+2025-06-18 16:48:11,811 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:51:25,521 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:51:25,521 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 16:51:25,522 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:51:25,523 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:51:28,642 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: app.txt
+2025-06-18 16:51:28,642 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:51:28,646 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:51:29,848 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:51:29,849 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 16:51:29,851 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:51:31,955 - SCLogAnalysisTool - INFO - UI Event - open_file_dialog - MainWindow
+2025-06-18 16:51:37,234 - SCLogAnalysisTool - INFO - UI Event - open_file - MainWindow - File: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:37,302 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:37,302 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: False
+2025-06-18 16:51:37,303 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:51:37,304 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:51:40,949 - SCLogAnalysisTool - INFO - UI Event - open_file_dialog - MainWindow
+2025-06-18 16:51:45,090 - SCLogAnalysisTool - INFO - UI Event - open_file - MainWindow - File: /Users/chenguodong/Desktop/workplace/log/netState5.log
+2025-06-18 16:51:45,191 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/netState5.log
+2025-06-18 16:51:45,192 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 16:51:45,192 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: netState5.log, Selected: True
+2025-06-18 16:51:45,194 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:51:46,611 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: netState5.log
+2025-06-18 16:51:46,611 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/netState5.log
+2025-06-18 16:51:46,613 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:46,614 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:51:49,754 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: app.txt
+2025-06-18 16:51:49,755 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 16:51:49,756 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:50,454 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 16:51:50,454 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:50,456 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:51:51,491 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:51,491 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:51:51,493 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:51:52,303 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 16:51:52,304 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:52,309 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:51:53,651 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:53,651 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:51:53,653 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:51:55,188 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 16:51:55,188 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:55,192 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:51:56,489 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:56,489 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:51:56,491 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:51:57,822 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:51:57,823 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:51:58,857 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 16:52:03,630 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 16:52:03,630 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:03,635 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:52:05,309 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:05,309 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:52:05,311 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:52:07,822 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:52:07,822 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:08,597 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 16:52:10,970 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 16:52:13,975 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 16:52:13,975 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:21,222 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 16:52:21,223 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:28,623 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 16:52:28,623 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:30,629 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:52:31,972 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:31,972 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:52:31,974 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:52:35,366 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:52:35,366 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:36,014 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 16:52:37,260 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 16:52:38,054 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 16:52:38,054 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:52:38,903 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 16:53:25,162 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:53:25,162 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:53:25,163 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:53:25,166 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:53:26,800 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:53:26,801 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:53:27,488 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 16:53:29,592 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 16:53:31,397 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 16:53:31,398 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:53:39,393 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 16:53:39,394 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:53:40,784 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 16:54:21,307 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:54:21,307 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:54:21,308 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:54:21,313 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:54:22,662 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:54:22,662 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:54:23,783 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 16:54:25,687 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 16:54:26,677 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 16:54:26,677 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:54:27,556 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 16:54:32,260 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 16:54:32,260 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:54:33,065 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: False
+2025-06-18 16:54:38,921 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 16:54:38,922 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:54:40,274 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 16:54:41,530 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:54:41,530 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:54:41,532 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:57:32,845 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:57:32,845 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 16:57:32,847 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 16:57:32,848 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:57:34,278 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:57:34,278 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:57:38,011 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:57:38,012 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 16:57:41,101 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 16:57:41,102 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:15,350 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:15,350 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:06:15,351 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:06:15,352 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:16,704 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:06:16,708 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:17,463 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:06:19,493 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:06:21,766 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:06:21,766 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:29,314 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:06:29,314 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:30,861 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:06:32,139 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:32,139 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:06:32,141 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:06:34,353 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:06:34,353 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:34,983 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:06:36,487 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:06:37,841 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:06:37,841 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:38,910 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:06:39,987 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:39,987 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:06:39,989 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:06:41,113 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:06:41,113 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:41,748 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:06:44,002 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:06:45,496 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:06:45,497 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:06:46,394 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:09:12,912 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:09:14,322 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:09:14,322 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:09:14,327 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:09:15,280 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:09:15,280 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:09:16,158 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:09:18,409 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 17:09:18,409 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:09:18,416 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:10:47,854 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:10:59,658 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:11:01,612 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:01,612 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:11:01,615 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:11:02,424 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:11:02,424 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:03,217 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:11:10,215 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:11:12,159 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:11:12,160 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:12,929 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:11:18,070 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:11:18,070 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:19,082 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: False
+2025-06-18 17:11:24,408 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:11:24,409 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:26,104 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:11:30,500 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:11:30,500 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:36,664 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:11:36,664 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:38,485 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:11:39,583 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:11:39,583 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:11:39,585 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:12:08,435 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:12:08,436 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:12:08,437 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:12:08,440 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:12:09,803 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:12:09,804 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:12:10,564 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:12:12,192 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:12:13,035 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:12:13,035 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:12:13,969 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:12:17,374 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:12:17,375 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:12:18,543 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:16:38,746 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:16:40,344 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:16:40,344 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:16:40,348 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:16:41,262 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:16:41,263 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:16:41,998 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:16:44,416 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:16:46,357 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:16:46,358 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:16:48,746 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:16:52,037 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:16:52,038 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:16:52,750 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: False
+2025-06-18 17:16:54,883 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log*
+2025-06-18 17:16:55,806 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:16:55,807 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:16:57,687 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:17:02,268 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:17:02,269 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:17:02,273 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:17:03,462 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:17:03,462 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:17:03,464 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:17:05,270 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:17:05,270 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:17:05,935 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:17:08,425 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:17:09,886 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:17:09,887 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:17:12,192 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:17:13,472 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:17:13,472 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:17:13,474 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:22:47,994 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:22:49,561 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:22:49,561 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:22:49,563 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:22:50,377 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:22:50,377 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:22:51,105 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:22:57,147 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:23:01,801 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:23:01,803 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:23:04,050 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:23:06,537 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:23:06,538 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:23:07,330 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: False
+2025-06-18 17:23:10,927 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log*
+2025-06-18 17:23:12,020 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:23:12,020 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:23:14,212 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:23:18,880 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:23:18,881 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:23:20,888 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:23:20,888 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:23:21,618 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: False
+2025-06-18 17:23:24,014 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log*
+2025-06-18 17:23:25,456 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:23:25,457 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:23:26,559 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:23:27,774 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:23:27,774 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:23:27,777 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:24:25,778 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:24:25,779 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:24:25,780 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:24:25,781 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:24:26,862 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:24:26,862 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:24:27,684 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:24:29,218 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:24:30,088 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:24:30,088 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:24:32,015 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:24:34,191 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:24:34,192 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:24:34,897 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: False
+2025-06-18 17:24:36,548 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log*
+2025-06-18 17:24:37,790 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:24:37,792 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:24:39,746 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log*, ReadOnly: True
+2025-06-18 17:26:15,015 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:15,016 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:26:15,016 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:26:15,018 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:16,232 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:26:16,232 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:17,018 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:26:18,807 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:26:20,070 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:26:20,070 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:21,771 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:26:21,771 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 17:26:23,621 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:26:23,621 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:24,258 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:26:25,507 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:26:26,733 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:26:26,733 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:29,256 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:26:29,279 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:26:29,310 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:26:29,310 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 17:26:30,453 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:26:30,454 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:31,071 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:26:32,555 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:26:33,805 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:26:33,806 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:26:35,481 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:26:35,481 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 17:27:01,095 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:27:01,096 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:27:03,184 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:27:03,184 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:27:05,517 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:27:05,517 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:27:06,307 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:27:07,357 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:27:07,357 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:27:08,044 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 17:29:50,136 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:29:50,136 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:29:50,137 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:29:50,139 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:29:51,431 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:29:51,432 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:29:52,091 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:29:54,269 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:29:55,254 - SCLogAnalysisTool - INFO - UI Event - shortcut - SaveFile - File: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:29:55,255 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:29:58,333 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:29:59,410 - SCLogAnalysisTool - INFO - UI Event - shortcut - SaveFile - File: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:29:59,412 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:30:03,630 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:30:06,811 - SCLogAnalysisTool - INFO - UI Event - shortcut - SaveFile - File: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:30:06,813 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:30:35,708 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:30:35,708 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:30:35,709 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:30:35,711 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:30:36,719 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:30:36,719 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:30:54,265 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:30:54,265 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:32:00,376 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:32:00,376 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:32:00,377 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:32:00,378 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:32:01,755 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:32:01,755 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:33:55,617 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:33:55,617 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:33:55,618 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:33:55,620 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:17,087 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:34:17,087 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:22,507 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:34:22,507 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:26,306 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 17:34:26,306 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 17:34:26,306 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 17:34:26,307 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:34:26,973 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:34:26,974 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:26,974 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:34:26,975 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: False
+2025-06-18 17:34:27,336 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:34:27,336 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:27,984 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:34:29,414 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: app.txt
+2025-06-18 17:34:29,414 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 17:34:29,415 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 17:34:29,415 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 17:34:29,774 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: app.txt
+2025-06-18 17:34:29,775 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 17:34:30,482 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: app.txt, ReadOnly: False
+2025-06-18 17:34:31,246 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:34:31,247 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:31,247 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:34:31,248 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: False
+2025-06-18 17:34:33,290 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: app.txt
+2025-06-18 17:34:33,291 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 17:34:33,291 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: False
+2025-06-18 17:34:33,292 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 17:34:34,230 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:34:34,230 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:34,230 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:34:34,231 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: False
+2025-06-18 17:34:36,980 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 17:34:37,959 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: app.txt
+2025-06-18 17:34:37,959 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 17:34:37,959 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log*, Selected: False
+2025-06-18 17:34:37,960 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt, Selected: True
+2025-06-18 17:34:39,884 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: app.txt, New: app.txt*
+2025-06-18 17:34:40,868 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log*
+2025-06-18 17:34:40,869 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:40,869 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log*, Selected: True
+2025-06-18 17:34:40,870 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt*, Selected: False
+2025-06-18 17:34:42,424 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 17:34:42,424 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:44,335 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 17:34:44,337 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 17:34:44,337 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: app.txt*, Selected: True
+2025-06-18 17:34:45,513 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: app.txt*
+2025-06-18 17:34:45,513 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/app.txt
+2025-06-18 17:34:46,839 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: app.txt*, New: app.txt
+2025-06-18 17:34:46,842 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 17:34:49,831 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:34:49,831 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:34:49,833 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:35:14,747 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:35:14,747 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:37:36,142 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:37:36,143 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:37:36,144 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:37:36,146 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:37:39,718 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:37:39,718 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:37:41,670 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:37:43,570 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:37:43,571 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:37:44,456 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 17:37:45,161 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:37:45,161 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:38:40,320 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:38:40,320 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:38:40,321 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:38:40,323 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:38:41,393 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:38:41,393 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:38:43,575 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 17:38:44,032 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 17:38:44,032 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:40:00,134 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:40:00,134 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:40:00,135 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:40:00,136 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:40:58,340 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:40:58,340 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:40:58,342 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:40:58,343 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:41:14,542 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:41:14,542 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:41:14,543 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:41:14,544 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:43:05,030 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:43:05,030 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:43:05,031 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:43:05,032 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:44:30,350 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:44:30,350 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:44:30,351 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:44:30,352 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:44:49,321 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:44:49,321 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:44:49,322 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:44:49,323 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:45:00,028 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:45:00,028 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:45:00,029 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:45:00,030 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:45:19,877 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:45:19,877 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:45:19,878 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:45:19,878 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:47:38,244 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:47:38,244 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:47:38,245 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:47:38,247 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:49:00,921 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:49:00,921 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:49:00,923 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:49:00,924 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:50:29,916 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:50:29,917 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:50:29,918 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:50:29,923 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:51:23,043 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:51:23,043 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:51:23,044 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:51:23,046 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:54:47,354 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:54:47,354 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:54:47,355 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:54:47,357 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:56:54,315 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:56:54,315 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:56:54,316 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:56:54,317 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:57:36,004 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:57:36,004 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:57:36,005 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:57:36,007 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:58:07,649 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:58:07,649 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:58:07,650 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:58:07,651 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:58:53,333 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 17:58:53,333 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 17:58:53,334 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 17:58:53,335 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 18:08:02,856 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 18:08:02,856 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 18:08:02,858 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 18:08:02,860 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 18:08:04,827 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 18:08:04,827 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 18:08:04,830 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 18:08:23,255 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 18:08:32,839 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 18:08:42,960 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 18:08:42,960 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 18:08:42,962 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 18:08:54,581 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error
+2025-06-18 18:08:55,477 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|
+2025-06-18 18:09:01,259 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error
+2025-06-18 18:09:04,454 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error, Options: case=False, word=False, regex=False
+2025-06-18 18:09:04,733 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 14
+2025-06-18 18:09:07,053 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/14
+2025-06-18 18:09:08,531 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/14
+2025-06-18 18:09:13,569 - SCLogAnalysisTool - INFO - UI Event - toggle_view - KeywordPanel - Visible: False
+2025-06-18 18:09:30,156 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|
+2025-06-18 18:09:30,603 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|startBindOverMatter
+2025-06-18 18:09:32,332 - SCLogAnalysisTool - INFO - UI Event - option_change - RegexButton - Checked: True
+2025-06-18 18:09:32,333 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-18 18:09:32,754 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 17
+2025-06-18 18:09:34,554 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-18 18:09:39,813 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/17
+2025-06-18 18:09:42,989 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/17
+2025-06-18 18:09:55,902 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/17
+2025-06-18 18:09:56,609 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/17
+2025-06-18 18:09:57,390 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/17
+2025-06-18 18:09:57,887 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/17
+2025-06-18 18:09:58,629 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/17
+2025-06-18 18:09:59,242 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/17
+2025-06-18 18:09:59,894 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/17
+2025-06-18 18:10:00,606 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/17
+2025-06-18 18:10:04,535 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/17
+2025-06-18 18:10:05,365 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/17
+2025-06-18 18:10:05,998 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/17
+2025-06-18 18:10:06,553 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 13/17
+2025-06-18 18:10:07,127 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 14/17
+2025-06-18 18:10:07,698 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 15/17
+2025-06-18 18:10:08,346 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 16/17
+2025-06-18 18:10:08,965 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 17/17
+2025-06-18 18:10:12,210 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 1/17
+2025-06-18 18:10:12,890 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/17
+2025-06-18 18:10:16,898 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/17
+2025-06-18 18:21:51,175 - SCLogAnalysisTool - INFO - UI Event - toggle_view - KeywordPanel - Visible: True
+2025-06-18 18:21:54,127 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FeedbackCore
+2025-06-18 18:21:54,128 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FeedbackCore
+2025-06-18 18:21:54,128 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=True
+2025-06-18 18:21:54,454 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': False, 'word_only': False}
+2025-06-18 18:21:54,454 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=False
+2025-06-18 18:22:00,228 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: scan and auto select device error|startBindOverMatter
+2025-06-18 18:22:00,228 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|startBindOverMatter
+2025-06-18 18:22:00,228 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=False
+2025-06-18 18:22:00,434 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 18:22:00,434 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-18 18:22:07,764 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/17
+2025-06-18 18:22:08,535 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/17
+2025-06-18 18:22:09,069 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/17
+2025-06-18 18:22:09,604 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/17
+2025-06-18 18:22:10,214 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/17
+2025-06-18 18:22:10,808 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/17
+2025-06-18 18:22:11,604 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/17
+2025-06-18 18:22:12,312 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 9/17
+2025-06-18 18:22:12,868 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 10/17
+2025-06-18 18:22:13,808 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 11/17
+2025-06-18 18:22:14,568 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 12/17
+2025-06-18 18:22:18,709 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: 2025-06-18-09_log1.log
+2025-06-18 18:22:18,709 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 18:22:18,717 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 18:25:01,427 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 18:25:07,853 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 18:25:07,853 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 18:25:07,855 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 18:25:09,884 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: scan and auto select device error|startBindOverMatter
+2025-06-18 18:25:09,884 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|startBindOverMatter
+2025-06-18 18:25:09,884 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=False
+2025-06-18 18:25:10,100 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 18:25:10,100 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-18 18:25:10,497 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 17
+2025-06-18 18:32:50,587 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/17
+2025-06-18 18:32:51,798 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/17
+2025-06-18 18:32:53,139 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 2/17
+2025-06-18 18:32:53,890 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/17
+2025-06-18 18:33:01,978 - SCLogAnalysisTool - INFO - UI Event - toggle_view - KeywordPanel - Visible: False
+2025-06-18 19:41:31,685 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:41:31,685 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 19:41:31,687 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:41:31,689 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:47:31,505 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:47:31,505 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 19:47:31,506 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:47:31,508 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:47:55,648 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:47:55,649 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 19:47:55,650 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:47:55,651 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:48:15,815 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:48:15,815 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 19:48:15,816 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:48:15,818 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:48:17,707 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: 2025-06-18-09_log1.log
+2025-06-18 19:48:17,707 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 19:48:17,710 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 19:48:19,522 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:48:19,522 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 19:48:19,523 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:48:29,121 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:48:29,121 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 19:48:29,122 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:48:29,123 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:52:02,896 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:52:02,897 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 19:52:02,898 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:52:02,899 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:52:53,934 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:52:53,934 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 19:52:53,935 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:52:53,938 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:56:21,050 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 19:56:21,050 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 19:56:21,051 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 19:56:21,053 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:00:26,757 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:00:26,758 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:00:26,761 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:00:26,763 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:00:54,542 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 20:00:54,544 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:00:54,549 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 20:00:55,622 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:00:55,622 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:00:55,626 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:01:18,725 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:01:18,725 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:01:18,727 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:01:18,728 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:01:46,732 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:01:46,732 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:01:46,734 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:01:46,735 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:01:55,047 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 20:01:55,047 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:01:55,051 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 20:01:56,269 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:01:56,269 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:01:56,274 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:05:15,645 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:05:15,645 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:05:15,646 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:05:15,655 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:05:20,070 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 20:05:20,070 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:05:20,912 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 20:05:23,704 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 20:05:26,154 - SCLogAnalysisTool - INFO - UI Event - shortcut - SaveFile - File: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:05:26,155 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 20:05:27,436 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 20:05:28,288 - SCLogAnalysisTool - INFO - UI Event - shortcut - SaveFile - File: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:05:28,290 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 20:05:29,781 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 20:05:29,782 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:05:30,657 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: True
+2025-06-18 20:05:31,397 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 20:05:31,399 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:05:36,789 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FlutterLogNative
+2025-06-18 20:05:36,789 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FlutterLogNative
+2025-06-18 20:05:36,789 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FlutterLogNative, Options: case=False, word=False, regex=False
+2025-06-18 20:07:11,557 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:07:11,558 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:07:11,559 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:07:11,561 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:10:29,839 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:10:29,840 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:10:29,841 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:10:29,843 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:10:53,717 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:10:53,717 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:10:53,718 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:10:53,720 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:10:59,050 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 20:10:59,051 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 20:10:59,051 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 20:10:59,054 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 20:11:02,482 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: ApiClient
+2025-06-18 20:11:02,483 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: ApiClient
+2025-06-18 20:11:02,483 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: ApiClient, Options: case=False, word=False, regex=False
+2025-06-18 20:11:02,489 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 9
+2025-06-18 20:11:06,902 - SCLogAnalysisTool - INFO - UI Event - click - TabItem - Tab: logcat.log
+2025-06-18 20:11:06,902 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:11:07,834 - SCLogAnalysisTool - INFO - UI Event - toggle_read_only - TabItem - Tab: logcat.log, ReadOnly: False
+2025-06-18 20:11:13,368 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: OkHttpClient
+2025-06-18 20:11:13,369 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: OkHttpClient
+2025-06-18 20:11:13,369 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: OkHttpClient, Options: case=False, word=False, regex=False
+2025-06-18 20:11:13,370 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log, New: logcat.log*
+2025-06-18 20:11:13,373 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 7
+2025-06-18 20:11:26,119 - SCLogAnalysisTool - INFO - UI Event - clear_filter - FilterInput
+2025-06-18 20:11:26,119 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: 
+2025-06-18 20:11:26,120 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 0
+2025-06-18 20:11:30,758 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log*
+2025-06-18 20:11:30,758 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:11:32,134 - SCLogAnalysisTool - INFO - UI Event - title_change - TabItem - Old: logcat.log*, New: logcat.log
+2025-06-18 20:11:32,138 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 20:11:33,409 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:11:33,409 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:11:33,415 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:12:17,874 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: FeedbackCore
+2025-06-18 20:12:17,875 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: FeedbackCore
+2025-06-18 20:12:17,875 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: FeedbackCore, Options: case=False, word=False, regex=False
+2025-06-18 20:12:17,878 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 9
+2025-06-18 20:12:28,205 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 20:12:28,205 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:12:28,207 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 20:12:32,174 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:12:32,174 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:12:32,180 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:12:33,957 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: scan and auto select device error|startBindOverMatter
+2025-06-18 20:12:33,958 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|startBindOverMatter
+2025-06-18 20:12:33,958 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=False
+2025-06-18 20:12:34,177 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 20:12:34,177 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-18 20:12:34,597 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 17
+2025-06-18 20:12:36,765 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/17
+2025-06-18 20:12:37,941 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/17
+2025-06-18 20:12:39,026 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/17
+2025-06-18 20:12:41,177 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/17
+2025-06-18 20:12:42,615 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/17
+2025-06-18 20:12:43,566 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/17
+2025-06-18 20:12:44,741 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 6/17
+2025-06-18 20:12:45,264 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 5/17
+2025-06-18 20:12:45,601 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 4/17
+2025-06-18 20:12:45,769 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 3/17
+2025-06-18 20:12:45,957 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 2/17
+2025-06-18 20:12:46,542 - SCLogAnalysisTool - INFO - UI Event - navigate - PrevMatchButton - Current: 1/17
+2025-06-18 20:15:16,840 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:15:16,842 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:15:16,843 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:15:16,852 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:15:18,526 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: scan and auto select device error|startBindOverMatter
+2025-06-18 20:15:18,526 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|startBindOverMatter
+2025-06-18 20:15:18,526 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=False
+2025-06-18 20:15:18,760 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 20:15:18,760 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-18 20:15:47,683 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:15:47,683 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:15:47,684 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:15:47,686 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:16:07,653 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:16:07,653 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:16:07,654 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:16:07,656 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:16:09,086 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: scan and auto select device error|startBindOverMatter
+2025-06-18 20:16:09,086 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: scan and auto select device error|startBindOverMatter
+2025-06-18 20:16:09,086 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=False
+2025-06-18 20:16:09,292 - SCLogAnalysisTool - INFO - UI Event - set_options - FilterInput - Options: {'case_sensitive': False, 'use_regex': True, 'word_only': False}
+2025-06-18 20:16:09,292 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: scan and auto select device error|startBindOverMatter, Options: case=False, word=False, regex=True
+2025-06-18 20:16:09,875 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 17
+2025-06-18 20:16:12,332 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 2/17
+2025-06-18 20:16:12,969 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 3/17
+2025-06-18 20:16:13,722 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 4/17
+2025-06-18 20:16:14,532 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 5/17
+2025-06-18 20:16:15,214 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 6/17
+2025-06-18 20:16:15,948 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 7/17
+2025-06-18 20:16:16,693 - SCLogAnalysisTool - INFO - UI Event - navigate - NextMatchButton - Current: 8/17
+2025-06-18 20:33:43,389 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:33:43,389 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:33:43,390 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:33:43,392 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:33:55,558 - SCLogAnalysisTool - INFO - UI Event - set_expression - FilterInput - Expression: AccountManager
+2025-06-18 20:33:55,559 - SCLogAnalysisTool - INFO - UI Event - text_change - FilterInput - Text: AccountManager
+2025-06-18 20:33:55,559 - SCLogAnalysisTool - INFO - UI Event - apply_filter - FilterInput - Text: AccountManager, Options: case=False, word=False, regex=False
+2025-06-18 20:33:55,806 - SCLogAnalysisTool - INFO - UI Event - match_count_change - FilterInput - Total matches: 511
+2025-06-18 20:37:10,015 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:37:10,015 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:37:10,016 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:37:10,018 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:37:26,959 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: 2025-06-18-09_log1.log
+2025-06-18 20:37:26,960 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:37:26,969 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 20:37:28,147 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:37:28,147 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:37:28,150 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:39:12,655 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:39:12,655 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:39:12,656 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:39:12,658 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:40:55,246 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:40:55,247 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:40:55,248 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:40:55,250 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:41:39,631 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:41:39,631 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:41:39,632 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:41:39,634 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:42:22,410 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:42:22,410 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:42:22,411 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:42:22,413 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:43:51,655 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:43:51,655 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:43:51,656 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:43:51,658 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:44:35,351 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:44:35,351 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:44:35,352 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:44:35,354 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:45:24,141 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:45:24,141 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: logcat.log, Selected: True
+2025-06-18 20:45:24,142 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:45:24,149 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:45:32,558 - SCLogAnalysisTool - INFO - UI Event - click - TabCloseButton - Tab: logcat.log
+2025-06-18 20:45:32,558 - SCLogAnalysisTool - INFO - UI Event - close_tab - MainWindow - Tab: /Users/chenguodong/Desktop/workplace/log/logcat.log
+2025-06-18 20:45:32,564 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - WelcomePage
+2025-06-18 20:45:36,845 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:45:36,845 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:45:36,852 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:48:24,465 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:48:24,465 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:48:24,468 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:48:24,472 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:49:05,014 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:49:05,015 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:49:05,018 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:49:05,022 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:49:39,505 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:49:39,506 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:49:39,507 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:49:39,509 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:50:12,491 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:50:12,492 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:50:12,493 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:50:12,496 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:50:37,373 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log
+2025-06-18 20:50:37,373 - SCLogAnalysisTool - INFO - UI Event - state_change - TabItem - Tab: 2025-06-18-09_log1.log, Selected: True
+2025-06-18 20:50:37,374 - SCLogAnalysisTool - INFO - UI Event - show_page - MainWindow - EditorView
+2025-06-18 20:50:37,376 - SCLogAnalysisTool - INFO - UI Event - switch_tab - MainWindow - Tab: /Users/chenguodong/Downloads/2025-06-18-09_log1.log

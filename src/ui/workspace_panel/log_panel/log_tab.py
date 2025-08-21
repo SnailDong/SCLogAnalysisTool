@@ -3,6 +3,7 @@ from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QKeySequence, QShortcut
 from src.ui.workspace_panel.workspace_panel import SCWorkspacePanel
 from src.utils.logger import log_ui_event
+from src.utils.file_utils import read_file_with_encoding
 import os
 
 class SCLogTab(QWidget):
@@ -87,16 +88,18 @@ class SCLogTab(QWidget):
         
     def load_file(self, filename: str) -> bool:
         try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                content = f.read()
+            content = read_file_with_encoding(filename)
             self.workspace_panel.get_filtered_view().load_text(content)
             self.workspace_panel.set_filepath(filename)
             self.filepath = filename
             # 重置修改状态
             self.is_modified = False
             return True
-        except Exception as e:
+        except (UnicodeDecodeError, FileNotFoundError) as e:
             QMessageBox.critical(self, "错误", f"无法打开文件: {str(e)}")
+            return False
+        except Exception as e:
+            QMessageBox.critical(self, "错误", f"读取文件时发生未知错误: {str(e)}")
             return False
 
     def save_file(self) -> bool:

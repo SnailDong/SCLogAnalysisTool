@@ -103,7 +103,8 @@ class FilterEngine:
             
         print(f"cached_matches: {self.cached_matches}")
         # 使用缓存的匹配结果
-        lines = text.splitlines()
+        # lines = text.splitlines()
+        lines = text.split('\n')
         filtered_lines = []
         line_mapping = []
         
@@ -129,10 +130,14 @@ class FilterEngine:
         """
         matches = []
         index = 0  # 用于记录匹配项的顺序
-        
+        print(f"原始文本长度: {len(text)}")
+        print(f"换行符数量: {text.count('\n')}")
+        print(f"回车符数量: {text.count('\r')}")
+        print(f"回车换行数量: {text.count('\r\n')}")
         # 按行处理文本
-        lines = text.splitlines(keepends=True)  # keepends=True 保留换行符
-        
+        # lines = text.splitlines()  # keepends=True 保留换行符
+        lines = text.split('\n')
+        print(f"总行数: {len(lines)}")
         for line_number, line in enumerate(lines):
             for keyword in self.keywords:
                 if not keyword:

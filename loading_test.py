@@ -1,10 +1,13 @@
 import time
 import os
 import threading
+import asyncio
+import aiofiles
 from concurrent.futures import ThreadPoolExecutor
 import sys
 from PyQt6.QtWidgets import QApplication, QPlainTextEdit, QMainWindow
-from PyQt6.QtCore import Qt, QTimer, pyqtSignal, QObject
+from PyQt6.QtCore import Qt, QTimer, pyqtSignal, QObject, QEventLoop
+from functools import partial
 
 class LoaderSignals(QObject):
     chunk_loaded = pyqtSignal(str)
@@ -61,7 +64,7 @@ class LoadingTest(QMainWindow):
             'content_size': len(content)
         }
 
-    def test_chunk_load(self, chunk_size_mb=1):
+    def test_chunk_load(self, chunk_size_mb=8):
         """测试单线程分块加载"""
         self.text_viewer.clear()
         chunk_size = chunk_size_mb * 1024 * 1024  # 转换为字节
@@ -77,6 +80,53 @@ class LoadingTest(QMainWindow):
                 self.loader_signals.chunk_loaded.emit(chunk)
                 QApplication.processEvents()  # 让UI有机会更新
 
+        end_time = time.time()
+        total_time = end_time - self.loading_start_time
+        print(f"Total time (including rendering): {total_time:.2f} seconds")
+        self.loader_signals.loading_finished.emit()
+        return {
+            'time': total_time,
+            'content_size': content_size
+        }
+        
+    async def async_load_chunk(self, chunk_size_mb=8):
+        """异步分块加载"""
+        chunk_size = chunk_size_mb * 1024 * 1024
+        content_size = 0
+        
+        async with aiofiles.open(self.file_path, 'r', encoding='utf-8') as f:
+            while True:
+                chunk = await f.read(chunk_size)
+                if not chunk:
+                    break
+                content_size += len(chunk)
+                # 在主线程中更新UI
+                self.loader_signals.chunk_loaded.emit(chunk)
+                await asyncio.sleep(0)  # 让出控制权给事件循环
+                
+        return content_size
+        
+    def test_async_load(self, chunk_size_mb=8):
+        """测试异步加载"""
+        self.text_viewer.clear()
+        self.loading_start_time = time.time()
+        
+        # 创建事件循环
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        
+        async def run_async():
+            try:
+                content_size = await self.async_load_chunk(chunk_size_mb)
+                return content_size
+            except Exception as e:
+                print(f"Error in async load: {e}")
+                return 0
+            
+        # 运行异步任务
+        content_size = loop.run_until_complete(run_async())
+        loop.close()
+        
         end_time = time.time()
         total_time = end_time - self.loading_start_time
         print(f"Total time (including rendering): {total_time:.2f} seconds")
@@ -134,23 +184,53 @@ def run_tests(file_path):
         # 测试传统加载
         print("\nTesting traditional loading...")
         traditional_result = test.test_traditional_load()
+        content_mb = traditional_result['content_size'] / (1024*1024)
+        speed = content_mb / traditional_result['time']
         print(f"Traditional loading:")
         print(f"  Time: {traditional_result['time']:.2f} seconds")
-        print(f"  Content size: {traditional_result['content_size'] / (1024*1024):.2f} MB")
+        print(f"  Content size: {content_mb:.2f} MB")
+        print(f"  Speed: {speed:.2f} MB/s")
 
         # 等待一会儿再进行下一个测试
-        QTimer.singleShot(1000, lambda: run_chunk_test(test))
+        QTimer.singleShot(1000, lambda: run_chunk_tests(test))
 
-    def run_chunk_test(test):
-        # 测试单线程分块加载
-        print("\nTesting chunk loading...")
-        chunk_result = test.test_chunk_load(chunk_size_mb=1)
-        print(f"Chunk loading (1MB chunks):")
-        print(f"  Time: {chunk_result['time']:.2f} seconds")
-        print(f"  Content size: {chunk_result['content_size'] / (1024*1024):.2f} MB")
+    def run_chunk_tests(test):
+        # 测试不同块大小的分块加载
+        print("\nTesting chunk loading with different chunk sizes...")
+        chunk_sizes = [1, 4, 8, 16]  # MB
+        def run_chunk_test(index):
+            if index >= len(chunk_sizes):
+                QTimer.singleShot(1000, lambda: run_async_tests(test))
+                return
+            chunk_size = chunk_sizes[index]
+            chunk_result = test.test_chunk_load(chunk_size_mb=chunk_size)
+            content_mb = chunk_result['content_size'] / (1024*1024)
+            speed = content_mb / chunk_result['time']
+            print(f"Chunk loading ({chunk_size}MB chunks):")
+            print(f"  Time: {chunk_result['time']:.2f} seconds")
+            print(f"  Content size: {content_mb:.2f} MB")
+            print(f"  Speed: {speed:.2f} MB/s")
+            QTimer.singleShot(1000, lambda: run_chunk_test(index + 1))
+        run_chunk_test(0)
 
-        # 等待一会儿再进行下一个测试
-        QTimer.singleShot(1000, lambda: run_mt_tests(test))
+    def run_async_tests(test):
+        # 测试不同块大小的异步加载
+        print("\nTesting async loading with different chunk sizes...")
+        chunk_sizes = [1, 4, 8, 16]  # MB
+        def run_async_test(index):
+            if index >= len(chunk_sizes):
+                QTimer.singleShot(1000, lambda: run_mt_tests(test))
+                return
+            chunk_size = chunk_sizes[index]
+            async_result = test.test_async_load(chunk_size_mb=chunk_size)
+            content_mb = async_result['content_size'] / (1024*1024)
+            speed = content_mb / async_result['time']
+            print(f"Async loading ({chunk_size}MB chunks):")
+            print(f"  Time: {async_result['time']:.2f} seconds")
+            print(f"  Content size: {content_mb:.2f} MB")
+            print(f"  Speed: {speed:.2f} MB/s")
+            QTimer.singleShot(1000, lambda: run_async_test(index + 1))
+        run_async_test(0)
 
     def run_mt_tests(test):
         # 测试多线程分块加载
@@ -161,12 +241,14 @@ def run_tests(file_path):
                 app.quit()
                 return
             thread_count = thread_counts[index]
-            mt_result = test.test_multi_thread_load(chunk_size_mb=1, num_threads=thread_count)
-            print(f"Multi-threaded loading ({thread_count} threads):")
+            mt_result = test.test_multi_thread_load(chunk_size_mb=8, num_threads=thread_count)
+            content_mb = mt_result['content_size'] / (1024*1024)
+            speed = content_mb / mt_result['time']
+            print(f"Multi-threaded loading ({thread_count} threads, 8MB chunks):")
             print(f"  Time: {mt_result['time']:.2f} seconds")
-            print(f"  Content size: {mt_result['content_size'] / (1024*1024):.2f} MB")
+            print(f"  Content size: {content_mb:.2f} MB")
+            print(f"  Speed: {speed:.2f} MB/s")
             QTimer.singleShot(1000, lambda: run_mt_test(index + 1))
-
         run_mt_test(0)
 
     QTimer.singleShot(1000, start_tests)

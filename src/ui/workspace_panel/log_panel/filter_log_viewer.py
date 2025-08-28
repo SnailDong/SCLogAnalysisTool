@@ -2,7 +2,7 @@ from PyQt6.QtWidgets import (QWidget, QTextEdit, QVBoxLayout, QHBoxLayout,
                            QPushButton, QLineEdit, QMessageBox, QSplitter,
                            QListWidget, QListWidgetItem, QLabel, QTreeWidget,
                            QTreeWidgetItem, QInputDialog, QMenu, QDialog, QDialogButtonBox)
-from PyQt6.QtCore import pyqtSignal, Qt, QSize, QPoint
+from PyQt6.QtCore import pyqtSignal, Qt, QSize, QPoint, QThread, QObject
 from PyQt6.QtGui import (QFont, QTextCursor, QIcon, QColor, QPalette, 
                       QTextCharFormat, QCursor, QKeySequence, QAction)
 from src.utils.highlighter import LogHighlighter
@@ -15,6 +15,44 @@ import re
 import json
 import os
 import traceback
+
+class TextWorker(QObject):
+    finished = pyqtSignal(str, list, list)  # 发送处理完成的信号
+    error = pyqtSignal(str)  # 错误信号
+    
+    def __init__(self, text: str, filter_engine: FilterEngine, filter_expression: str = None, filter_options: dict = None):
+        super().__init__()
+        self.text = text
+        self.filter_engine = filter_engine
+        self.filter_expression = filter_expression
+        self.filter_options = filter_options
+        self.is_cancelled = False
+        
+    def cancel(self):
+        """取消处理"""
+        self.is_cancelled = True
+        
+    def process(self):
+        """处理文本"""
+        try:
+            filtered_lines = []
+            line_mapping = []
+            
+            # 如果有过滤表达式，执行过滤
+            if self.filter_expression:
+                # 设置过滤表达式
+                result = self.filter_engine.set_filter_expression(self.filter_expression, self.filter_options)
+                if not result["valid"]:
+                    raise ValueError(result["message"])
+                
+                # 执行过滤
+                filtered_lines, line_mapping = self.filter_engine.filter_text(self.text)
+            
+            # 发送处理完成的信号
+            self.finished.emit(self.text, filtered_lines, line_mapping)
+            
+        except Exception as e:
+            self.error.emit(str(e))
 
 class SCFilteredLogViewer(QWidget):
     filterChanged = pyqtSignal(str)  # 添加过滤器变化信号
@@ -270,33 +308,49 @@ class SCFilteredLogViewer(QWidget):
         return 0
 
     def apply_filter(self, expression: str):
+        """应用过滤器"""
+        # 获取原始文本
+        text = self.original_viewer.toPlainText()
         
-        try:
-            # 获取原始文本
-            text = self.original_viewer.toPlainText()
+        if not expression:
+            # 如果表达式为空，清除过滤
+            self.clear_filter()
+            return
             
-            if not expression:
-                # 如果表达式为空，清除过滤
-                self.clear_filter()
-                return
-                
+        # 获取过滤选项
+        filter_options = self.filter_input.get_filter_options()
+        
+        # 创建工作线程
+        self.thread = QThread()
+        self.worker = TextWorker(text, self.filter_engine, expression, filter_options)
+        
+        # 将worker移动到线程
+        self.worker.moveToThread(self.thread)
+        
+        # 连接信号
+        self.thread.started.connect(self.worker.process)
+        self.worker.finished.connect(self._on_filter_processed)
+        self.worker.error.connect(self._on_processing_error)
+        self.worker.finished.connect(self.thread.quit)
+        self.worker.finished.connect(self.worker.deleteLater)
+        self.thread.finished.connect(self.thread.deleteLater)
+        
+        # 启动线程
+        self.thread.start()
+        
+    def _on_filter_processed(self, text: str, filtered_lines: list, line_mapping: list):
+        """处理过滤完成"""
+        try:
             # 获取过滤选项
             filter_options = self.filter_input.get_filter_options()
-                
-            # 设置过滤表达式并获取关键字
-            result = self.filter_engine.set_filter_expression(expression, filter_options)
-            if not result["valid"]:
-                raise ValueError(result["message"])
             
             # 获取过滤关键字并设置给高亮器
             keywords = self.filter_engine.get_keywords()
             self.original_viewer.highlighter.set_keywords(keywords, filter_options)
             self.filtered_viewer.highlighter.set_keywords(keywords, filter_options)
             
-            # 应用过滤
-            filtered_lines, self.line_mapping = self.filter_engine.filter_text(text)
-            
             # 更新过滤后的查看器
+            self.line_mapping = line_mapping
             self.filtered_viewer.setPlainText('\n'.join(filtered_lines))
             
             # 计算总匹配数
@@ -334,14 +388,51 @@ class SCFilteredLogViewer(QWidget):
 
     def load_text(self, text: str):
         """加载文本内容"""
-        print(f"load_text: {text}")
+        self.load_text_async(text)
+        
+    def load_text_async(self, text: str):
+        """异步加载文本内容"""
+        # 创建工作线程
+        self.thread = QThread()
+        self.worker = TextWorker(
+            text,
+            self.filter_engine,
+            self.filter_input.input.text() if self.filter_input else None,
+            self.filter_input.get_filter_options() if self.filter_input else None
+        )
+        
+        # 将worker移动到线程
+        self.worker.moveToThread(self.thread)
+        
+        # 连接信号
+        self.thread.started.connect(self.worker.process)
+        self.worker.finished.connect(self._on_text_processed)
+        self.worker.error.connect(self._on_processing_error)
+        self.worker.finished.connect(self.thread.quit)
+        self.worker.finished.connect(self.worker.deleteLater)
+        self.thread.finished.connect(self.thread.deleteLater)
+        
+        # 启动线程
+        self.thread.start()
+        
+    def _on_text_processed(self, text: str, filtered_lines: list, line_mapping: list):
+        """处理文本加载完成"""
         self.original_viewer.setPlainText(text)
-        # 如果有过滤条件，重新应用过滤
-        current_filter = self.filter_input.input.text()
-        if current_filter:
-            self.apply_filter(current_filter)
+        if filtered_lines:
+            self.filtered_viewer.setPlainText('\n'.join(filtered_lines))
+            self.line_mapping = line_mapping
+            self.filtered_viewer.show()
+            
+            # 更新匹配计数
+            self.total_matches = self._calculate_total_matches()
+            if self.total_matches > 0:
+                self._on_navigate_to_match(0)
         else:
             self.clear_filter()
+            
+    def _on_processing_error(self, error_message: str):
+        """处理错误"""
+        QMessageBox.warning(self, "处理错误", error_message)
 
     def _calculate_total_matches(self):
         """计算所有匹配项的总数"""

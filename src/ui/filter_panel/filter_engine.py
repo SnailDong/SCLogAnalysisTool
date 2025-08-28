@@ -13,6 +13,8 @@ class FilterEngine:
         self.cached_matches = []  # 缓存匹配结果
         self.cached_text = None   # 缓存搜索的文本
         self.cached_options = {}  # 缓存搜索选项
+        self.cached_lines = []    # 缓存分割后的行
+        self.total_count = 0
 
     def set_filter_expression(self, expression: str, options: dict = None) -> dict:
         """设置过滤表达式和选项"""
@@ -87,6 +89,9 @@ class FilterEngine:
         if not self.current_expression:
             return [], []
 
+        # 设置文本并预处理
+        self.set_text(text)
+        
         # 检查是否需要重新搜索
         current_options = {
             "case_sensitive": self.case_sensitive,
@@ -94,17 +99,13 @@ class FilterEngine:
             "use_regex": self.use_regex
         }
         
-        if (text != self.cached_text or 
-            current_options != self.cached_options):
+        if current_options != self.cached_options:
             # 需要重新搜索并缓存结果
             self.cached_matches = self.find_keyword_matches(text)
-            self.cached_text = text
             self.cached_options = current_options.copy()
             
         print(f"cached_matches: {self.cached_matches}")
-        # 使用缓存的匹配结果
-        # lines = text.splitlines()
-        lines = text.split('\n')
+        # 使用缓存的行
         filtered_lines = []
         line_mapping = []
         
@@ -112,9 +113,11 @@ class FilterEngine:
         matched_lines = set()
         for _, _, _, line_number, _ in self.cached_matches:
             if line_number not in matched_lines:
+                print(f"line_number: {line_number}")
                 matched_lines.add(line_number)
-                filtered_lines.append(lines[line_number])
+                filtered_lines.append(self.cached_lines[line_number])
                 line_mapping.append(line_number)
+                print(f"filtered_lines: {self.cached_lines[line_number]}")
                 
         return filtered_lines, line_mapping
 
@@ -134,11 +137,9 @@ class FilterEngine:
         print(f"换行符数量: {text.count('\n')}")
         print(f"回车符数量: {text.count('\r')}")
         print(f"回车换行数量: {text.count('\r\n')}")
-        # 按行处理文本
-        # lines = text.splitlines()  # keepends=True 保留换行符
-        lines = text.split('\n')
-        print(f"总行数: {len(lines)}")
-        for line_number, line in enumerate(lines):
+        # 使用缓存的行
+        print(f"总行数: {len(self.cached_lines)}")
+        for line_number, line in enumerate(self.cached_lines):
             for keyword in self.keywords:
                 if not keyword:
                     continue
@@ -178,6 +179,14 @@ class FilterEngine:
         matches.sort(key=lambda x: x[4])
         return matches
 
+    def set_text(self, text: str):
+        """设置文本并进行预处理"""
+        if text != self.cached_text:
+            self.cached_text = text
+            self.cached_lines = text.split('\n')
+            # 清除之前的匹配缓存
+            self.cached_matches = []
+            
     def set_total_count(self, count: int) -> int:
         self.total_count = count
 

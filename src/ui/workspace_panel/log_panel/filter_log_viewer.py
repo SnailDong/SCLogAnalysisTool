@@ -19,6 +19,7 @@ import traceback
 class TextWorker(QObject):
     finished = pyqtSignal(str, list, list)  # 发送处理完成的信号
     error = pyqtSignal(str)  # 错误信号
+    progress = pyqtSignal(int)  # 进度信号
     
     def __init__(self, text: str, filter_engine: FilterEngine, filter_expression: str = None, filter_options: dict = None):
         super().__init__()
@@ -30,11 +31,16 @@ class TextWorker(QObject):
         
     def cancel(self):
         """取消处理"""
+        print("正在取消文本处理...")
         self.is_cancelled = True
         
     def process(self):
         """处理文本"""
         try:
+            if self.is_cancelled:
+                print("处理已被取消")
+                return
+                
             filtered_lines = []
             line_mapping = []
             
@@ -45,14 +51,29 @@ class TextWorker(QObject):
                 if not result["valid"]:
                     raise ValueError(result["message"])
                 
+                if self.is_cancelled:
+                    print("过滤表达式设置后被取消")
+                    return
+                
                 # 执行过滤
                 filtered_lines, line_mapping = self.filter_engine.filter_text(self.text)
+                
+                if self.is_cancelled:
+                    print("过滤执行后被取消")
+                    return
             
             # 发送处理完成的信号
-            self.finished.emit(self.text, filtered_lines, line_mapping)
+            if not self.is_cancelled:
+                self.finished.emit(self.text, filtered_lines, line_mapping)
+            else:
+                print("发送结果前被取消")
             
         except Exception as e:
-            self.error.emit(str(e))
+            if not self.is_cancelled:
+                print(f"处理文本时出错: {str(e)}")
+                self.error.emit(str(e))
+            else:
+                print("发生错误时已被取消")
 
 class SCFilteredLogViewer(QWidget):
     filterChanged = pyqtSignal(str)  # 添加过滤器变化信号
@@ -68,7 +89,26 @@ class SCFilteredLogViewer(QWidget):
         self.current_global_match = 0  # 当前全局匹配项索引
         self.initial_filter_position = None  # 初始过滤位置（行号，位置）
         self.filter_input = filter_input
+        self.thread = None
+        self.worker = None
         self.setup_ui()
+        
+    def closeEvent(self, event):
+        """处理窗口关闭事件"""
+        self._cleanup_thread()
+        super().closeEvent(event)
+        
+    def hideEvent(self, event):
+        """处理窗口隐藏事件"""
+        self._cleanup_thread()
+        super().hideEvent(event)
+        
+    def __del__(self):
+        """析构函数"""
+        try:
+            self._cleanup_thread()
+        except:
+            pass
 
     def set_filter_input(self, filter_input: SCFilterInput):
         self.filter_input = filter_input
@@ -320,6 +360,21 @@ class SCFilteredLogViewer(QWidget):
         # 获取过滤选项
         filter_options = self.filter_input.get_filter_options()
         
+        # 如果有正在运行的线程，先停止它
+        if hasattr(self, 'thread') and self.thread is not None:
+            try:
+                if hasattr(self.thread, 'isRunning') and self.thread.isRunning():
+                    if hasattr(self, 'worker') and self.worker is not None:
+                        self.worker.cancel()  # 取消当前的处理
+                    self.thread.quit()
+                    self.thread.wait()  # 等待线程结束
+            except Exception as e:
+                print(f"停止线程时出错: {str(e)}")
+                # 确保清理资源
+                if hasattr(self, 'worker') and self.worker is not None:
+                    self.worker = None
+                self.thread = None
+        
         # 创建工作线程
         self.thread = QThread()
         self.worker = TextWorker(text, self.filter_engine, expression, filter_options)
@@ -331,9 +386,7 @@ class SCFilteredLogViewer(QWidget):
         self.thread.started.connect(self.worker.process)
         self.worker.finished.connect(self._on_filter_processed)
         self.worker.error.connect(self._on_processing_error)
-        self.worker.finished.connect(self.thread.quit)
-        self.worker.finished.connect(self.worker.deleteLater)
-        self.thread.finished.connect(self.thread.deleteLater)
+        self.worker.finished.connect(lambda: self._cleanup_thread())  # 使用清理函数
         
         # 启动线程
         self.thread.start()
@@ -392,6 +445,21 @@ class SCFilteredLogViewer(QWidget):
         
     def load_text_async(self, text: str):
         """异步加载文本内容"""
+        # 如果有正在运行的线程，先停止它
+        if hasattr(self, 'thread') and self.thread is not None:
+            try:
+                if hasattr(self.thread, 'isRunning') and self.thread.isRunning():
+                    if hasattr(self, 'worker') and self.worker is not None:
+                        self.worker.cancel()  # 取消当前的处理
+                    self.thread.quit()
+                    self.thread.wait()  # 等待线程结束
+            except Exception as e:
+                print(f"停止线程时出错: {str(e)}")
+                # 确保清理资源
+                if hasattr(self, 'worker') and self.worker is not None:
+                    self.worker = None
+                self.thread = None
+        
         # 创建工作线程
         self.thread = QThread()
         self.worker = TextWorker(
@@ -408,9 +476,7 @@ class SCFilteredLogViewer(QWidget):
         self.thread.started.connect(self.worker.process)
         self.worker.finished.connect(self._on_text_processed)
         self.worker.error.connect(self._on_processing_error)
-        self.worker.finished.connect(self.thread.quit)
-        self.worker.finished.connect(self.worker.deleteLater)
-        self.thread.finished.connect(self.thread.deleteLater)
+        self.worker.finished.connect(lambda: self._cleanup_thread())  # 使用清理函数
         
         # 启动线程
         self.thread.start()
@@ -486,6 +552,43 @@ class SCFilteredLogViewer(QWidget):
     def set_expression(self, expression: str):
         """设置过滤表达式"""
         self.filter_input.set_expression(expression) 
+        
+    def _cleanup_thread(self):
+        """清理线程资源"""
+        try:
+            if self.thread is not None:
+                # 先处理 worker
+                if self.worker is not None:
+                    try:
+                        self.worker.cancel()  # 尝试取消当前操作
+                    except:
+                        pass
+                    try:
+                        self.worker.deleteLater()
+                    except:
+                        pass
+                    self.worker = None
+
+                # 再处理线程
+                try:
+                    if hasattr(self.thread, 'isRunning') and self.thread.isRunning():
+                        self.thread.quit()
+                        # 最多等待3秒
+                        if not self.thread.wait(3000):
+                            print("警告：线程未能在3秒内结束")
+                except Exception as e:
+                    print(f"停止线程时出错: {str(e)}")
+
+                try:
+                    self.thread.deleteLater()
+                except:
+                    pass
+                self.thread = None
+        except Exception as e:
+            print(f"清理线程资源时出错: {str(e)}")
+            # 确保引用被清除
+            self.worker = None
+            self.thread = None
 
     def _find_keyword_position(self, text: str, keywords: set) -> Tuple[int, str]:
         """在文本中查找第一个关键字的位置"""

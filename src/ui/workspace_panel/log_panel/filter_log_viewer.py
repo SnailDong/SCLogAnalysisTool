@@ -51,10 +51,10 @@ class SCFilteredLogViewer(QWidget):
         self.filtered_viewer = SCLogViewer()
         self.filtered_viewer.set_filter_type("filtered")
         self.filtered_viewer.setReadOnly(True)  # 设置为只读
-        self.filtered_viewer.setTextInteractionFlags(Qt.TextInteractionFlag.NoTextInteraction)  # 禁用所有文本交互
+        self.filtered_viewer.setTextInteractionFlags(Qt.TextInteractionFlag.TextSelectableByMouse | Qt.TextInteractionFlag.TextSelectableByKeyboard)  # 允许鼠标和键盘选择文本
         self.filtered_viewer.viewport().setCursor(Qt.CursorShape.ArrowCursor)  # 设置鼠标指针为箭头
         # 覆盖鼠标事件处理
-        self.filtered_viewer.mousePressEvent = self._on_filtered_viewer_mouse_press
+        # self.filtered_viewer.mousePressEvent = self._on_filtered_viewer_mouse_press
         self.filtered_viewer.mouseDoubleClickEvent = self._on_filtered_viewer_double_click
         self.splitter.addWidget(self.filtered_viewer)
         
